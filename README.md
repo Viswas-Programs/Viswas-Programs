@@ -7,7 +7,7 @@
 I am nub btw, so don't trash me when there is a bug in my program :)
 NOTE: I am just a 8th standard kid, so I won't know 12std maths ;)
 
-Also, as an advertisement for the collaboration of me and @North-west-wind, we are doing opensurviv.io
+Also, as an advertisement for the revival of a popular IO game called surviv.io, done by @North-west-wind, we are doing opensurviv.io
 take a look at it and how it works here (https://github.com/North-West-Wind/opensurviv-client)
 and if you can help out with it, please do it! (Even help with setting up servers too)
 <!---
