@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Viswas
 - 👀 I’m interested in programming and ethical hacking
 - 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on good projects (duh)
-- 📫 How to reach me: Nah I ain't givin' it
 
+std::cout << "print('And, not only learning how to write Hello world, I try to build projects with those 2 languages! :)')" << std::endl;
 I am nub btw, so don't trash me when there is a bug in my program :)
 NOTE: I am just a 8th standard kid, so I won't know 12std maths ;)
 
