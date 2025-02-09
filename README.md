@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Viswas
-- 👀 I’m interested in programming and ethical hacking
-- 🌱 I’m currently learning python and c++
+- 👋 Hi, I’m HeheBoi420
+- 👀 I’m interested in programming (Game&OS Dev)
+- 🌱 I’m currently learning python and TS (C++ is on my wishlist) 
 
-I am nub btw, so don't trash me when there is a bug in my program :)
-NOTE: I am just a 9th standard kid, so I won't know 12std maths ;)
+I am nub btw, so don't trash me when there is a bug in my programs :)
+NOTE: I am just a 10th standard kid, so I won't know 12std maths ;)
 
 std::cout << "print('And, not only learning how to write Hello world, I try to build projects with those 2 languages! :)')" << std::endl;
 
