@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and TS (C++ is on my wishlist) 
 
 I am nub btw, so don't trash me when there is a bug in my programs :)
-NOTE: I am just a 10th standard kid, so I won't know 12std maths ;)
+NOTE: I am just a 11th standard kid, so I won't know 12std maths ;)
 
 std::cout << "print('And, not only learning how to write Hello world, I try to build projects with those 2 languages! :)')" << std::endl;
 
